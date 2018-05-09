@@ -1,0 +1,1 @@
+mv file1 file_$(date +%Y%m%d%H%M%S)

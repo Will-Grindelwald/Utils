@@ -1,0 +1,1 @@
+userHomePath=/home/$(whoami)

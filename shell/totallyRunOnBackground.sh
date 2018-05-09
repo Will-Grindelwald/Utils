@@ -1,0 +1,1 @@
+nohup ./process > logs.log 2>&1 &
