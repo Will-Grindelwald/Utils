@@ -87,7 +87,7 @@ source /etc/os-release
 
 case $ID in
 debian|ubuntu)
-    sudo apt-get install lsb-release
+    sudo apt install lsb-release
     ;;
 centos|fedora|rhel)
     yumdnf="yum"
